@@ -1,0 +1,6 @@
+﻿  chap02_array.cpp
+C:\Users\이기백\Desktop\데이터 구조\chap02_array\chap02_array\chap02_array.cpp(10,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\이기백\Desktop\데이터 구조\chap02_array\chap02_array\chap02_array.cpp(14,2): error C2664: 'int printf(const char *const ,...)': 인수 1을(를) 'int [10]'에서 'const char *const '(으)로 변환할 수 없습니다.
+C:\Users\이기백\Desktop\데이터 구조\chap02_array\chap02_array\chap02_array.cpp(14,9): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(950,37): message : 'printf' 선언을 참조하십시오.
+C:\Users\이기백\Desktop\데이터 구조\chap02_array\chap02_array\chap02_array.cpp(14,2): message : 인수 목록 '(int [10])'을(를) 일치시키는 동안
